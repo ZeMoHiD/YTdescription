@@ -1,0 +1,30 @@
+.t-p{
+    font-family: serif;
+    font-size: 20px;
+    font-weight: bold;
+    width: 250px;
+    margin-bottom: 10px;
+}
+.s-p{
+    font-family: serif;
+    font-size: 15px;
+}
+.sub-p{
+    font-family: serif;
+    font-size: 10px;
+    line-height: 8px;
+}
+.ch-p
+{
+font-family: serif;
+font-size: 18px;
+margin-bottom: 1px;
+line-height: 2px;
+font-weight: bold;
+}
+.about-p{
+font-family: serif;
+font-size: 15px;
+width: 280px;
+font-weight: medium;
+}
